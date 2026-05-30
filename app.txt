@@ -1,5 +1,5 @@
 Collaboration Demo Project
-Version 1.0
+Version 3.0
 DETAILs: this current version collects info from websites via web scraping
          after collecting, the gathered info will be send to python which 
          uses json to collect and gather the info
