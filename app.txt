@@ -1,2 +1,3 @@
 Collaboration Demo Project
 Version 1.0
+DETAILs: this current version collects info from websites via web scraping
